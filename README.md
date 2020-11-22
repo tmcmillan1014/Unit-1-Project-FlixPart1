@@ -19,8 +19,9 @@
 
 ### App Walkthough GIF
 
+<img src='FlixsterPartTwo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
-<img src='FlixsterPartTwo.gif' width=250><br>
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 
@@ -52,6 +53,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src='FlixsterPartOne.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ### Notes
 No Challenges at all, interesting project. 
 
