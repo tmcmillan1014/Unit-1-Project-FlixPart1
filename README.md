@@ -20,6 +20,7 @@
 ### App Walkthough GIF
 
 <img src='FlixsterPartTwo.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+![](FlixsterPartTwo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
